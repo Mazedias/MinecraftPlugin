@@ -1,6 +1,0 @@
-name: Minecraftplugin
-version: ${project.version}
-main: plugin.minecraftplugin.Minecraftplugin
-api-version: 1.16
-authors: [ Leon, Natanael, Mathias ]
-description: A Minecraft Plugin
