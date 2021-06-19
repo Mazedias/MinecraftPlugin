@@ -15,9 +15,9 @@ public class DatabaseTest {
         getquery.GetInt();
     }
 
-    public static String url = "jdbc:mysql://178.63.127.184:3306/s4973_Mazzobase";
-    public static String user = "u4973_9jAVGd7olq";
-    public static String password = "2Tit3diOVm!^^nHRpYB0N=W3";
+    public static String url = "*******";
+    public static String user = "********";
+    public static String password = "*********";
     public static int amount = 100;
 
     public void GetInt() {
