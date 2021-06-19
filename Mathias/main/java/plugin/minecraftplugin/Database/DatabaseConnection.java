@@ -8,11 +8,8 @@ import java.sql.Connection;
 
 /*
 By Mathias
-not finished | not finaly tested
-!ENTER FINISH DATE!
-Todo:
-    - Difference between buy/sell price -> Add something which decides whether it is a sell/buy price
-    f.E. : New Collumn in Database (1=Sell|2=Buy), then include this in the query in GetPrice()
+finished | not finaly tested
+12.06.2021
 
 Existing Classes:
 - Add Player to Database (InsertNewUser)
