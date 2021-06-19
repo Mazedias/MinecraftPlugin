@@ -20,7 +20,7 @@ Functions:
 Plugin Status: in developement
 Version: Alpha 1.0
 
-Finish Date of Alpha 1.0 version: ----------
+Finish Date of Alpha 1.0 version: 19.06.2021
 */
 
 public final class Minecraftplugin extends JavaPlugin {
