@@ -13,7 +13,7 @@ import plugin.minecraftplugin.utils.ItemBuilder;
 import java.util.Objects;
 
 /*
-By Mathias
+Diese Datei ist nicht von @Mazedias, Sie ist ein Mitschrieb von einem Tutorial als Lernzweck
 finished | tested
 */
 
