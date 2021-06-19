@@ -5,6 +5,10 @@ import org.bukkit.configuration.file.YamlConfiguration;
 
 import java.io.IOException;
 
+/*
+Diese Datei ist nicht von @Mazedias, Sie ist ein Mitschrieb von einem Tutorial als Lernzweck
+*/
+
 public class FileConfig extends YamlConfiguration {
 
     private String path; // Pfad
