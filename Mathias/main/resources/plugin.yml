@@ -1,0 +1,27 @@
+name: Minecraftplugin
+version: ${project.version}
+main: plugin.minecraftplugin.Minecraftplugin
+api-version: 1.16
+authors: [ Leon, Natanael, Mathias ]
+description: A Minecraft Plugin
+
+commands:
+  heal:
+    description: Du wirst geheilt.
+    aliases: ["healme"]
+  spawn:
+    description: Dieser Befehl teleportiert dich zum Spawn.
+    aliases: ["setspawn"]
+  transfer:
+    description: Mit diesem Command kannst du Geld zwischen Spielern transferieren.
+    aliases: ["tran"]
+  add:
+    description: Mit diesem Command kannst du Spielern Geld schenken.
+    aliases: ["addto"]
+  spawnshop:
+    description: Erzeuge einen Shop Villager.
+    aliases:  ["setshop"]
+
+permissions:
+  Admin:
+    default: op
