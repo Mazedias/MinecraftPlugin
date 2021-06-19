@@ -10,7 +10,7 @@ import plugin.minecraftplugin.utils.LocationUtils;
 
 /*
 By Mathias
-finished | not tested
+finished | tested
 */
 
 public class SpawnCommand implements CommandExecutor {
