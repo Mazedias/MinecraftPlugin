@@ -9,7 +9,7 @@ import plugin.minecraftplugin.utils.FileConfig;
 import plugin.minecraftplugin.utils.LocationUtils;
 
 /*
-By Mathias
+Diese Datei ist nicht von @Mazedias, Sie ist ein Mitschrieb von einem Tutorial als Lernzweck
 finished | tested
 */
 
