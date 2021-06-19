@@ -12,6 +12,11 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
+
+/*
+Diese Datei ist nicht von @Mazedias (Siehe oben), Sie dient dazu Items in einem Inventar leichter zu erstellen
+*/
+
 package plugin.minecraftplugin.utils;
 
 import com.google.gson.Gson;
