@@ -5,6 +5,10 @@ import org.bukkit.Location;
 import org.bukkit.Sound;
 import org.bukkit.entity.Player;
 
+/*
+Diese Datei ist nicht von @Mazedias, Sie ist ein Mitschrieb von einem Tutorial als Lernzweck
+*/
+
 public class LocationUtils {
 
     //Player Location to String
