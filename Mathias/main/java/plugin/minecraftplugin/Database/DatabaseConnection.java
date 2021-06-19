@@ -22,9 +22,9 @@ Existing Classes:
 */
 
 public class DatabaseConnection {
-    public static String url = "jdbc:mysql://178.63.127.184:3306/s6898_Mazzobase";
-    public static String user = "u6898_RZvI2sDiAi";
-    public static String password = "YoRRn!+WrxZb1tjDgI.1AP!b";
+    public static String url = "********";
+    public static String user = "********";
+    public static String password = "********";
 
     public void getCollumnsSQLquery(String query, int SQLColumns) {
         String Data = "";
