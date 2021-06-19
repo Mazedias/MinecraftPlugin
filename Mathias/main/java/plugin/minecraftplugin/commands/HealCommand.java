@@ -9,7 +9,7 @@ import org.bukkit.entity.Player;
 import plugin.minecraftplugin.Minecraftplugin;
 
 /*
-By Mathias
+Diese Datei ist nicht von @Mazedias, Sie ist ein Mitschrieb von einem Tutorial als Lernzweck
 finished | tested
 */
 
