@@ -19,10 +19,9 @@ import java.util.Objects;
 
 /*
 By Mathias
-not finished | not tested
-!ENTER FINISH DATE!
+finished | tested
+12.06.2021
 Todo
-    - Enter Item prices into Database
     - If some Items are stackt (32 Stone for 1 Mazzotaler): Enter Amount in Database + Write Funktion to get the Amount
     - Develope an Idea how the Special Offers Menu should work
 */
