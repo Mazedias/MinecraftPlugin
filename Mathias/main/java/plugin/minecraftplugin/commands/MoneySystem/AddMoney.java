@@ -10,7 +10,7 @@ import plugin.minecraftplugin.Minecraftplugin;
 
 /*
 By Mathias
-finished | not tested
+finished | tested
 09.02.2021
 */
 
