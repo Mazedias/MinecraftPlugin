@@ -10,7 +10,7 @@ import plugin.minecraftplugin.Minecraftplugin;
 
 /*
 By Mathias
-finished | not tested
+finished | tested
 */
 
 public class HealCommand implements CommandExecutor {
